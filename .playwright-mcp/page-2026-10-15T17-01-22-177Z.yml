@@ -1,0 +1,395 @@
+- generic [ref=f1e2]:
+  - banner [ref=f1e3]:
+    - link "Skip to content" [ref=f1e4] [cursor=pointer]:
+      - /url: "#main"
+    - generic [ref=f1e5]:
+      - link "ClearEdge Exterior Cleaning, home" [ref=f1e6] [cursor=pointer]:
+        - /url: /
+        - generic [ref=f1e10]:
+          - generic [ref=f1e11]: ClearEdge
+          - generic [ref=f1e12]: Exterior Cleaning
+      - navigation "Primary" [ref=f1e13]:
+        - link "Home" [ref=f1e14] [cursor=pointer]:
+          - /url: /
+        - link "Services" [ref=f1e15] [cursor=pointer]:
+          - /url: /services
+        - link "Our Work" [ref=f1e16] [cursor=pointer]:
+          - /url: /work
+        - link "About" [ref=f1e17] [cursor=pointer]:
+          - /url: /about
+        - link "Contact" [ref=f1e18] [cursor=pointer]:
+          - /url: /contact
+        - link "Get a Free Quote" [ref=f1e19] [cursor=pointer]:
+          - /url: /contact
+  - main [ref=f1e20]:
+    - generic [ref=f1e21]:
+      - img "Freshly washed concrete driveway in front of a modern Florida home with palms" [ref=f1e22]
+      - generic [ref=f1e24]:
+        - paragraph [ref=f1e25]: ORLANDO'S EXTERIOR CLEANING SPECIALISTS
+        - heading "Make Every First Impression Count." [level=1] [ref=f1e26]
+        - paragraph [ref=f1e27]: Professional pressure washing, house washing and exterior surface cleaning that brings out the best in your property.
+        - generic [ref=f1e28]:
+          - link "Get a Free Quote" [ref=f1e29] [cursor=pointer]:
+            - /url: /contact
+          - link "See Our Work" [ref=f1e30] [cursor=pointer]:
+            - /url: /work
+    - complementary "Surfaces at a glance" [ref=f1e32]:
+      - paragraph [ref=f1e33]: Exterior surfaces, chosen by the material.
+      - list [ref=f1e34]:
+        - listitem [ref=f1e35]:
+          - link "Driveways Concrete & aprons" [ref=f1e36] [cursor=pointer]:
+            - /url: /services#driveway
+            - generic [ref=f1e41]:
+              - generic [ref=f1e42]: Driveways
+              - generic [ref=f1e43]: Concrete & aprons
+        - listitem [ref=f1e44]:
+          - link "House washing Stucco & siding" [ref=f1e45] [cursor=pointer]:
+            - /url: /services#house
+            - generic [ref=f1e50]:
+              - generic [ref=f1e51]: House washing
+              - generic [ref=f1e52]: Stucco & siding
+        - listitem [ref=f1e53]:
+          - link "Roofs Tile & shingle" [ref=f1e54] [cursor=pointer]:
+            - /url: /services#roof
+            - generic [ref=f1e59]:
+              - generic [ref=f1e60]: Roofs
+              - generic [ref=f1e61]: Tile & shingle
+        - listitem [ref=f1e62]:
+          - link "Patios Pavers & joints" [ref=f1e63] [cursor=pointer]:
+            - /url: /services#patio
+            - generic [ref=f1e70]:
+              - generic [ref=f1e71]: Patios
+              - generic [ref=f1e72]: Pavers & joints
+    - region [ref=f1e73]:
+      - generic [ref=f1e74]:
+        - generic [ref=f1e75]:
+          - generic [ref=f1e76]:
+            - heading "A Cleaner Exterior. A Better First Impression." [level=2] [ref=f1e77]
+            - paragraph [ref=f1e78]: Six services for the outside of a property. Photographs are illustrations, not jobs this fictional company has completed.
+          - link "All services" [ref=f1e79] [cursor=pointer]:
+            - /url: /services
+        - generic [ref=f1e80]:
+          - link "Illustrative Driveway & Concrete Cleaning Concrete driveways, walkways, and aprons, washed to lift tire shading, mildew, and embedded dirt. Learn more" [ref=f1e81] [cursor=pointer]:
+            - /url: /services#driveway
+            - generic [ref=f1e83]: Illustrative
+            - generic [ref=f1e84]:
+              - heading "Driveway & Concrete Cleaning" [level=3] [ref=f1e85]
+              - paragraph [ref=f1e86]: Concrete driveways, walkways, and aprons, washed to lift tire shading, mildew, and embedded dirt.
+              - text: Learn more
+          - link "Illustrative House Soft Washing A lower-pressure wash for stucco, siding, and painted walls, where a hard blast is the wrong tool. Learn more" [ref=f1e87] [cursor=pointer]:
+            - /url: /services#house
+            - generic [ref=f1e89]: Illustrative
+            - generic [ref=f1e90]:
+              - heading "House Soft Washing" [level=3] [ref=f1e91]
+              - paragraph [ref=f1e92]: A lower-pressure wash for stucco, siding, and painted walls, where a hard blast is the wrong tool.
+              - text: Learn more
+          - link "Illustrative Roof Cleaning Tile and shingle roofs treated for the dark streaks and algae growth that humid weather encourages. Learn more" [ref=f1e93] [cursor=pointer]:
+            - /url: /services#roof
+            - generic [ref=f1e95]: Illustrative
+            - generic [ref=f1e96]:
+              - heading "Roof Cleaning" [level=3] [ref=f1e97]
+              - paragraph [ref=f1e98]: Tile and shingle roofs treated for the dark streaks and algae growth that humid weather encourages.
+              - text: Learn more
+          - link "Illustrative Patio & Paver Cleaning Pavers and patios cleaned so the original color can read again, including the joints where grime settles. Learn more" [ref=f1e99] [cursor=pointer]:
+            - /url: /services#patio
+            - generic [ref=f1e101]: Illustrative
+            - generic [ref=f1e102]:
+              - heading "Patio & Paver Cleaning" [level=3] [ref=f1e103]
+              - paragraph [ref=f1e104]: Pavers and patios cleaned so the original color can read again, including the joints where grime settles.
+              - text: Learn more
+          - link "Illustrative Commercial Exterior Cleaning Storefronts, walkways, and building fronts cleaned on a rhythm a property manager can plan around. Learn more" [ref=f1e105] [cursor=pointer]:
+            - /url: /services#commercial
+            - generic [ref=f1e107]: Illustrative
+            - generic [ref=f1e108]:
+              - heading "Commercial Exterior Cleaning" [level=3] [ref=f1e109]
+              - paragraph [ref=f1e110]: Storefronts, walkways, and building fronts cleaned on a rhythm a property manager can plan around.
+              - text: Learn more
+          - link "Illustrative Fence & Deck Cleaning Wood, vinyl, and composite fences and decks washed with a method matched to the material. Learn more" [ref=f1e111] [cursor=pointer]:
+            - /url: /services#fence
+            - generic [ref=f1e113]: Illustrative
+            - generic [ref=f1e114]:
+              - heading "Fence & Deck Cleaning" [level=3] [ref=f1e115]
+              - paragraph [ref=f1e116]: Wood, vinyl, and composite fences and decks washed with a method matched to the material.
+              - text: Learn more
+    - region [ref=f1e117]:
+      - generic [ref=f1e119]:
+        - heading "The Difference Is Clear." [level=2] [ref=f1e120]
+        - paragraph [ref=f1e121]: Drag each divider. The before side is the same photograph with a grime treatment, so the property, angle, and light stay aligned. These are demonstrations, not customer projects.
+      - generic [ref=f1e122]:
+        - figure [ref=f1e123]:
+          - generic [ref=f1e124]:
+            - img "Clean concrete driveway used as an illustrative before-and-after demonstration"
+            - generic: Before
+            - generic: After
+            - slider "Concrete driveway. Before and after comparison." [ref=f1e125]
+          - generic [ref=f1e130]:
+            - paragraph [ref=f1e131]: Concrete driveway
+            - paragraph [ref=f1e132]: Demo comparison — replace with real project photos.
+            - paragraph [ref=f1e133]: Illustrative grime on one photograph so the angle and light match. Not a ClearEdge customer project.
+            - paragraph [ref=f1e134]: Drag the divider, or focus it and use the arrow keys. Shift moves in larger steps.
+            - generic [ref=f1e135]:
+              - button "Show more after" [ref=f1e136] [cursor=pointer]
+              - button "Center" [ref=f1e137] [cursor=pointer]
+              - button "Show more before" [active] [ref=f1e138] [cursor=pointer]
+        - generic [ref=f1e139]:
+          - figure [ref=f1e140]:
+            - generic [ref=f1e141]:
+              - img "Clean stucco house used as an illustrative before-and-after demonstration"
+              - generic: Before
+              - generic: After
+              - slider "House exterior. Before and after comparison." [ref=f1e142]
+            - generic [ref=f1e147]:
+              - paragraph [ref=f1e148]: House exterior
+              - paragraph [ref=f1e149]: Demo comparison — replace with real project photos.
+              - paragraph [ref=f1e150]: Illustrative grime on one photograph so the angle and light match. Not a ClearEdge customer project.
+              - generic [ref=f1e151]:
+                - button "Show more after" [ref=f1e152] [cursor=pointer]
+                - button "Center" [ref=f1e153] [cursor=pointer]
+                - button "Show more before" [ref=f1e154] [cursor=pointer]
+          - figure [ref=f1e155]:
+            - generic [ref=f1e156]:
+              - img "Clean paver patio used as an illustrative before-and-after demonstration"
+              - generic: Before
+              - generic: After
+              - slider "Patio pavers. Before and after comparison." [ref=f1e157]
+            - generic [ref=f1e162]:
+              - paragraph [ref=f1e163]: Patio pavers
+              - paragraph [ref=f1e164]: Demo comparison — replace with real project photos.
+              - paragraph [ref=f1e165]: Illustrative grime on one photograph so the angle and light match. Not a ClearEdge customer project.
+              - generic [ref=f1e166]:
+                - button "Show more after" [ref=f1e167] [cursor=pointer]
+                - button "Center" [ref=f1e168] [cursor=pointer]
+                - button "Show more before" [ref=f1e169] [cursor=pointer]
+        - link "View More Transformations" [ref=f1e170] [cursor=pointer]:
+          - /url: /work
+    - region [ref=f1e171]:
+      - generic [ref=f1e172]:
+        - generic [ref=f1e173]:
+          - heading "Care You Can See. Service You Can Feel." [level=2] [ref=f1e174]
+          - paragraph [ref=f1e175]: What this fictional company would be organized around. None of these are verified credentials or guarantees.
+        - generic [ref=f1e176]:
+          - article [ref=f1e177]:
+            - heading "Surface-Specific Cleaning Methods" [level=3] [ref=f1e179]
+            - paragraph [ref=f1e180]: The plan starts with the material — concrete, stucco, tile, wood, or pavers. Each one would be cleaned differently. There is no single setting for a whole property.
+          - article [ref=f1e181]:
+            - heading "Convenient Scheduling" [level=3] [ref=f1e183]
+            - paragraph [ref=f1e184]: A quote request asks for the property type and ZIP code so a real operation could suggest a time window. This demo does not book appointments or hold a calendar.
+          - article [ref=f1e185]:
+            - heading "Careful Property Protection" [level=3] [ref=f1e187]
+            - paragraph [ref=f1e188]: The described routine pays attention to plants, windows, and outdoor fixtures before water starts. That is a standard of care for the concept, not a warranty.
+          - article [ref=f1e189]:
+            - heading "Clear Quote Process" [level=3] [ref=f1e191]
+            - paragraph [ref=f1e192]: You would see the surfaces, the method, and the price before work begins. The form on this site only simulates that first step. It does not produce a price.
+    - region [ref=f1e193]:
+      - generic [ref=f1e194]:
+        - generic [ref=f1e195]:
+          - heading "From the first note to a cleaner exterior." [level=2] [ref=f1e196]
+          - paragraph [ref=f1e197]: Three steps a working version of this business would follow. This website only performs the first one, and only as a demo.
+        - list [ref=f1e200]:
+          - listitem [ref=f1e201]:
+            - generic [ref=f1e202]: "01"
+            - heading "Request Your Quote" [level=3] [ref=f1e203]
+            - paragraph [ref=f1e204]: Share the property type, the surfaces, and a ZIP code. The form on this site is a demonstration. It does not send your note anywhere.
+          - listitem [ref=f1e205]:
+            - generic [ref=f1e206]: "02"
+            - heading "Review Your Cleaning Plan" [level=3] [ref=f1e207]
+            - paragraph [ref=f1e208]: A working version of this business would confirm access, water, and which surfaces are in scope, then send a written price before scheduling.
+          - listitem [ref=f1e209]:
+            - generic [ref=f1e210]: "03"
+            - heading "Enjoy a Refreshed Exterior" [level=3] [ref=f1e211]
+            - paragraph [ref=f1e212]: On the day of service, the crew would clean the agreed surfaces and walk the result with you if you are there. This concept has no crews and no appointments.
+    - region [ref=f1e213]:
+      - generic [ref=f1e214]:
+        - generic [ref=f1e215]:
+          - generic [ref=f1e216]:
+            - heading "Exterior examples, for the eye." [level=2] [ref=f1e217]
+            - paragraph [ref=f1e218]: A gallery of generated photographs. Each one is labeled illustrative. None of them are ClearEdge projects.
+          - link "Our work page" [ref=f1e219] [cursor=pointer]:
+            - /url: /work
+        - generic [ref=f1e220]:
+          - toolbar "Filter visual examples" [ref=f1e221]:
+            - button "All" [pressed] [ref=f1e222] [cursor=pointer]
+            - button "Driveways" [ref=f1e223] [cursor=pointer]
+            - button "Homes" [ref=f1e224] [cursor=pointer]
+            - button "Patios" [ref=f1e225] [cursor=pointer]
+            - button "Commercial" [ref=f1e226] [cursor=pointer]
+          - paragraph [ref=f1e227]: 6 illustrative examples in All.
+          - generic [ref=f1e228]:
+            - figure "Open concrete driveway Driveways" [ref=f1e229]:
+              - generic [ref=f1e230]:
+                - img "Illustrative photo of a clean residential concrete driveway" [ref=f1e231]
+                - generic [ref=f1e232]: Illustrative
+              - generic [ref=f1e233]:
+                - generic [ref=f1e234]: Open concrete driveway
+                - generic [ref=f1e235]: Driveways
+            - figure "Palm-lined drive Driveways" [ref=f1e236]:
+              - generic [ref=f1e237]:
+                - img "Illustrative photo of a long clean driveway beside a modern home" [ref=f1e238]
+                - generic [ref=f1e239]: Illustrative
+              - generic [ref=f1e240]:
+                - generic [ref=f1e241]: Palm-lined drive
+                - generic [ref=f1e242]: Driveways
+            - figure "Stucco home front Homes" [ref=f1e243]:
+              - generic [ref=f1e244]:
+                - img "Illustrative photo of a clean Florida house exterior" [ref=f1e245]
+                - generic [ref=f1e246]: Illustrative
+              - generic [ref=f1e247]:
+                - generic [ref=f1e248]: Stucco home front
+                - generic [ref=f1e249]: Homes
+            - figure "Tile roof Homes" [ref=f1e250]:
+              - generic [ref=f1e251]:
+                - img "Illustrative photo of clean terracotta roof tiles" [ref=f1e252]
+                - generic [ref=f1e253]: Illustrative
+              - generic [ref=f1e254]:
+                - generic [ref=f1e255]: Tile roof
+                - generic [ref=f1e256]: Homes
+            - figure "Paver field Patios" [ref=f1e257]:
+              - generic [ref=f1e258]:
+                - img "Illustrative photo of clean beige patio pavers" [ref=f1e259]
+                - generic [ref=f1e260]: Illustrative
+              - generic [ref=f1e261]:
+                - generic [ref=f1e262]: Paver field
+                - generic [ref=f1e263]: Patios
+            - figure "Building approach Commercial" [ref=f1e264]:
+              - generic [ref=f1e265]:
+                - img "Illustrative photo of a clean commercial exterior and walkway" [ref=f1e266]
+                - generic [ref=f1e267]: Illustrative
+              - generic [ref=f1e268]:
+                - generic [ref=f1e269]: Building approach
+                - generic [ref=f1e270]: Commercial
+    - region [ref=f1e271]:
+      - generic [ref=f1e272]:
+        - generic [ref=f1e273]:
+          - heading "Ready to Love the Look of Your Property Again?" [level=2] [ref=f1e274]
+          - paragraph [ref=f1e275]: Describe the exterior and the ZIP code. This demonstration collects nothing and contacts nobody.
+        - link "Get My Free Quote" [ref=f1e276] [cursor=pointer]:
+          - /url: /contact
+    - region [ref=f1e277]:
+      - generic [ref=f1e278]:
+        - generic [ref=f1e279]:
+          - heading "Questions people ask before a first clean." [level=2] [ref=f1e280]
+          - paragraph [ref=f1e281]: Answers describe this fictional service. They are not a quote, a warranty, or a promise of results.
+        - generic [ref=f1e282]:
+          - group [ref=f1e283]:
+            - generic "What is the difference between pressure washing and soft washing?" [ref=f1e284] [cursor=pointer]
+          - group [ref=f1e285]:
+            - generic "Which surfaces can be cleaned?" [ref=f1e286] [cursor=pointer]
+          - group [ref=f1e287]:
+            - generic "How often do exterior surfaces usually need cleaning?" [ref=f1e288] [cursor=pointer]
+          - group [ref=f1e289]:
+            - generic "How does a quote work?" [ref=f1e290] [cursor=pointer]
+          - group [ref=f1e291]:
+            - generic "Do owners need to be home?" [ref=f1e292] [cursor=pointer]
+          - group [ref=f1e293]:
+            - generic "How should a property be prepared?" [ref=f1e294] [cursor=pointer]
+    - region [ref=f1e295]:
+      - generic [ref=f1e296]:
+        - generic [ref=f1e297]:
+          - generic [ref=f1e298]:
+            - heading "Tell us about the exterior." [level=2] [ref=f1e299]
+            - paragraph [ref=f1e300]: Name, property, and ZIP code are enough for a real company to start a quote. Here, the form stops on this page.
+          - generic [ref=f1e301]:
+            - paragraph [ref=f1e302]: Demo form
+            - paragraph [ref=f1e303]: Nothing on this form is sent or saved.
+            - generic [ref=f1e304]:
+              - generic [ref=f1e305]:
+                - generic [ref=f1e306]: Name
+                - textbox "Name" [ref=f1e307]
+              - generic [ref=f1e308]:
+                - generic [ref=f1e309]: Email
+                - textbox "Email" [ref=f1e310]
+              - generic [ref=f1e311]:
+                - generic [ref=f1e312]: Phone
+                - textbox "Phone" [ref=f1e313]
+              - generic [ref=f1e314]:
+                - generic [ref=f1e315]: ZIP code
+                - textbox "ZIP code" [ref=f1e316]:
+                  - /placeholder: "32801"
+              - generic [ref=f1e317]:
+                - generic [ref=f1e318]: Property type
+                - combobox "Property type" [ref=f1e319]:
+                  - option "Select a property type" [selected]
+                  - option "Single-family home"
+                  - option "Townhome or condo"
+                  - option "Commercial property"
+                  - option "HOA or multi-unit"
+                  - option "Not sure yet"
+              - generic [ref=f1e320]:
+                - generic [ref=f1e321]: Service needed
+                - combobox "Service needed" [ref=f1e322]:
+                  - option "Select a service" [selected]
+                  - option "Driveway & concrete cleaning"
+                  - option "House soft washing"
+                  - option "Roof cleaning"
+                  - option "Patio & paver cleaning"
+                  - option "Commercial exterior cleaning"
+                  - option "Fence & deck cleaning"
+                  - option "Not sure yet"
+              - generic [ref=f1e323]:
+                - generic [ref=f1e324]:
+                  - text: Message
+                  - generic [ref=f1e325]: Optional
+                - textbox "Message Optional" [ref=f1e326]
+            - button "Get My Free Quote" [ref=f1e327] [cursor=pointer]
+        - complementary [ref=f1e328]:
+          - paragraph [ref=f1e329]: Example area
+          - paragraph [ref=f1e330]: Orlando, Florida
+          - paragraph [ref=f1e331]: A real company would name the cities it actually drives to. This concept uses Orlando only as a setting.
+          - paragraph [ref=f1e332]: No phone number or street address is listed. Independent concept website — not an operating business.
+  - contentinfo [ref=f1e333]:
+    - generic [ref=f1e334]:
+      - generic [ref=f1e335]:
+        - link "ClearEdge Exterior Cleaning, home" [ref=f1e336] [cursor=pointer]:
+          - /url: /
+          - generic [ref=f1e340]:
+            - generic [ref=f1e341]: ClearEdge
+            - generic [ref=f1e342]: Exterior Cleaning
+        - paragraph [ref=f1e343]: A fictional exterior-cleaning brand set in Orlando, Florida. The photographs are illustrations. The quote form does not send or store anything.
+      - generic [ref=f1e344]:
+        - heading "Navigate" [level=2] [ref=f1e345]
+        - list [ref=f1e346]:
+          - listitem [ref=f1e347]:
+            - link "Home" [ref=f1e348] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=f1e349]:
+            - link "Services" [ref=f1e350] [cursor=pointer]:
+              - /url: /services
+          - listitem [ref=f1e351]:
+            - link "Our Work" [ref=f1e352] [cursor=pointer]:
+              - /url: /work
+          - listitem [ref=f1e353]:
+            - link "About" [ref=f1e354] [cursor=pointer]:
+              - /url: /about
+          - listitem [ref=f1e355]:
+            - link "Contact" [ref=f1e356] [cursor=pointer]:
+              - /url: /contact
+      - generic [ref=f1e357]:
+        - heading "Services" [level=2] [ref=f1e358]
+        - list [ref=f1e359]:
+          - listitem [ref=f1e360]:
+            - link "Driveway & Concrete Cleaning" [ref=f1e361] [cursor=pointer]:
+              - /url: /services#driveway
+          - listitem [ref=f1e362]:
+            - link "House Soft Washing" [ref=f1e363] [cursor=pointer]:
+              - /url: /services#house
+          - listitem [ref=f1e364]:
+            - link "Roof Cleaning" [ref=f1e365] [cursor=pointer]:
+              - /url: /services#roof
+          - listitem [ref=f1e366]:
+            - link "Patio & Paver Cleaning" [ref=f1e367] [cursor=pointer]:
+              - /url: /services#patio
+          - listitem [ref=f1e368]:
+            - link "Commercial Exterior Cleaning" [ref=f1e369] [cursor=pointer]:
+              - /url: /services#commercial
+          - listitem [ref=f1e370]:
+            - link "Fence & Deck Cleaning" [ref=f1e371] [cursor=pointer]:
+              - /url: /services#fence
+      - generic [ref=f1e372]:
+        - heading "Example location" [level=2] [ref=f1e373]
+        - paragraph [ref=f1e374]: Orlando, Florida
+        - paragraph [ref=f1e375]: Fictional example location. No street address, phone number, or social accounts are published, because this is not a place of business.
+        - link "Get a Free Quote" [ref=f1e376] [cursor=pointer]:
+          - /url: /contact
+    - generic [ref=f1e378]:
+      - paragraph [ref=f1e379]: Independent concept website — not an operating business.
+      - paragraph [ref=f1e380]: Fictional website concept created for demonstration purposes.
